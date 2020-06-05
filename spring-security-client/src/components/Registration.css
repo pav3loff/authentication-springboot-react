@@ -1,0 +1,14 @@
+@import url("https://fonts.googleapis.com/css2?family=Karla&display=swap");
+
+.TextField {
+    margin: 5px !important;
+}
+
+.RegistrationSubmitButton {
+    color: #433e49 !important;
+    height: 25px !important;
+    width: max-content !important;
+    margin: 20px !important;
+    text-transform: none !important;
+    font-family: "Karla" !important;
+}
